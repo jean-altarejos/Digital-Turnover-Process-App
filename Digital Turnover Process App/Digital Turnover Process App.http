@@ -1,0 +1,6 @@
+@Digital_Turnover_Process_App_HostAddress = http://localhost:5079
+
+GET {{Digital_Turnover_Process_App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
